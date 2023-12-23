@@ -21,3 +21,6 @@ The snake moves in the chosen direction (up, down, left, right) at regular inter
 If the snake's head collides with the food, the snake grows, and a new food position is generated.
 If the snake collides with the walls or itself, the game ends, and a message is displayed.
 The game loop continues, providing a continuous gaming experience.
+
+![image](https://github.com/rheashetty23/SnakeGame-HTML-CSS-JS/assets/108348171/81a8d2fa-a3c5-430b-bc07-ccc4aabaccf0)
+
